@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+  -webkit-font-smoothing: antialiased;
+}
+.input {
+  color: #eeeeee !important;
+}
+.input:focus {
+  outline: none !important;
+  border: 1px solid #8d8d99;
+  box-shadow: 0 0 10px #719ece;
+}

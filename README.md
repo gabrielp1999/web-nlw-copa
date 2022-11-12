@@ -1,0 +1,1 @@
+# Aplicação web do projeto nlw copa, feito em Next.js
